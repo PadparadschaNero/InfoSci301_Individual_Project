@@ -1,4 +1,4 @@
-# Inforsci301
+# Infosci301
 
 The original dataset I analysed is from https://aws.amazon.com/cn/blogs/publicsector/leveraging-the-cloud-for-rapid-climate-risk-assessments/
 
