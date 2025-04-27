@@ -35,6 +35,21 @@ To replicate the experimental results:
 
 3. Select the Filled Map visualization feature to recreate the global climate risk visualizations.
 
+## Results Summary
+Through critical redesign using Amazon QuickSight and an alternative global climate risk dataset, this project produced enhanced visualizations that offer a multi-dimensional view of climate vulnerability and economic losses:
+
+Climate Risk Map: A filled country-level map visualizing climate exposure scores, integrating storm, flood, drought, and heat-related risks ➔ Result: Broader, more balanced portrayal of climate threats across regions.
+
+Economic Loss Bubble Chart: A bubble map highlighting the top 20 countries with the highest climate-related economic losses (PPP-adjusted) ➔ Result: Immediate identification of high-risk regions, with readable, scalable bubble sizes for comparative clarity.
+
+Improvements Over Original Visualization:
+1. Applied clearer, colorblind-friendly palettes for accessibility.
+2. Reduced geographic ambiguity by enhancing boundary clarity.
+3. Enabled interactive elements (e.g., tooltips) for better user engagement.
+4. Aligned with FAIR principles by enhancing data transparency and interoperability
+
+These redesigned visualizations support more informed climate resilience planning, particularly for policymakers, corporations, and the public seeking to understand long-term environmental risks.
+
 ## Contribution to Sustainable Development Goals (SDGs)
 ### Goal 13: Climate Action
 Visualizing multi-dimensional climate vulnerability data raises awareness and promotes informed climate resilience planning.
